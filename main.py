@@ -1,4 +1,4 @@
-import proyecto_hundir_flota.Hundir_Barco.utils as utils
+import utils
 
 juego=1
 
